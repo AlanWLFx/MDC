@@ -14,6 +14,7 @@ import androidx.fragment.app.Fragment;
 import com.alain.cursos.mdcomponents.fragments.BottomNavigationBarFragment;
 import com.alain.cursos.mdcomponents.fragments.ButtonFragment;
 import com.alain.cursos.mdcomponents.fragments.SnackBarFragment;
+import com.alain.cursos.mdcomponents.fragments.TextfildFragment;
 
 public class CommonUtils {
 
@@ -32,6 +33,9 @@ public class CommonUtils {
             case ButtonFragment.TAG:
                 fragment = new ButtonFragment();
                 break;
+            case TextfildFragment.TAG:
+                fragment = new TextfildFragment();
+                break;
 
             //STATIC
             case BottomNavigationBarFragment.TAG:
@@ -40,6 +44,7 @@ public class CommonUtils {
             case SnackBarFragment.TAG:
                 fragment = new SnackBarFragment();
                 break;
+
 
         }
 
