@@ -4,13 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/drawable/background_itam.xml" value="0.2203125" />
+        <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/drawable/states_colors_text_field.xml" value="0.2203125" />
         <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/layout/fragment_bottom_navigation_bar.xml" value="0.12681159420289856" />
         <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/layout/fragment_bottom_navigation_bar2.xml" value="0.12681159420289856" />
         <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/layout/fragment_bottom_navigation_bar_fracment.xml" value="0.12681159420289856" />
         <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/layout/fragment_button.xml" value="0.12681159420289856" />
         <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/layout/fragment_button_.xml" value="0.1" />
         <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/layout/fragment_snack_bar.xml" value="0.12047101449275362" />
-        <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/layout/fragment_textfild.xml" value="0.25" />
+        <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/layout/fragment_textfild.xml" value="0.1" />
         <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/layout/item_component.xml" value="0.12047101449275362" />
         <entry key="..\:/Users/josue/Downloads/MDComponents/app/src/main/res/menu/menu_botton.xml" value="0.20416666666666666" />
       </map>
