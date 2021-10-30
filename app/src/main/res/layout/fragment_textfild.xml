@@ -78,7 +78,9 @@
             android:inputType="textMultiLine"
             android:maxLines="3"/>
 
-    </com.google.android.material.textfield.TextInputLayout><com.google.android.material.textfield.TextInputLayout
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
     android:id="@+id/tilCapitalLatter"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -92,6 +94,8 @@
     app:endIconMode="custom"
     app:endIconDrawable="@drawable/ic_format_siza"
     app:endIconTint="@color/colorPrimary">
+
+
     <com.google.android.material.textfield.TextInputEditText
         android:id="@+id/etCapitalLatter"
         android:layout_width="match_parent"
